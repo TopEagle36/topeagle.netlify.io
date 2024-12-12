@@ -16,6 +16,7 @@ import Testimonials from "@/components/home/Testimonials";
 //   };
 // }
 
+
 export default function Home() {
   return (
     <Page currentPage="Home" meta={{ desc: "I'm a passionate Web2 & Web3 developer." }}>
